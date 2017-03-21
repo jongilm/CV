@@ -1,7 +1,17 @@
 ## Jonathan Gilmore
 ### software engineer
 
-[CodeExamples](#codeexamples) - [Summary](#summary) - [Achievements](#achievements) - [History](#history) - [EarlierPositions](#ealierpositions) - [Training](#training) - [Qualifications](#qualifications) - [PersonalDetails](#personaldetails) - [Mail](mailto:jonathan@jgilmore.eu)
+- [Code Examples](#codeexamples)
+- [Expertise](#expertise)
+- [Achievements](#achievements)
+- [History](#history)
+- [Earlier Positions](#ealierpositions)
+- [Training](#training)
+- [Qualifications](#qualifications)
+- [Personal Details](#personaldetails)
+
+eMail: [jonathan@jgilmore.eu](mailto:jonathan@jgilmore.eu)
+About Me: [https://about.me/jonathangilmore/](https://about.me/jonathangilmore/)
 
 A very experienced IT Professional with a wealth of knowledge in all aspects of software development including security related systems and communications, wired and wireless networks, embedded systems, smart card technologies, banking and financial systems.
 An adaptable individual offering significant technical expertise, strong troubleshooting skills and a proven ability to implement innovative solutions and optimise resources - seeking either a technical or team lead software engineering/development role in the IT, Telecommunications or Finance sectors.
@@ -12,7 +22,7 @@ Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
 [Personal Website](https://github.com/jongilmo/jongilmo.github.io) | My personal website | Javascript | .
 
-## <a name=“summary”>Professional Expertise Summary:</a>
+## <a name=“expertise”>Professional Expertise Summary:</a>
 - Technical expertise, Project Management, IT Consultancy, Team and technical leadership and mentoring, Agile, Scrum, primarily in the Telecoms and Retail Banking/Financial sectors. Extensive experience in all aspects of the full software lifecycle, including Agile, scrum, git and use of Open Source in commercial/proprietary systems. 
 - Small Business Management, Problem solving, Motivation, Mentoring and guidance, Support and training, Client relationship management, international 3rd party suppliers and consultants.
 - Methodologies: Agile, Scrum, Scrum Master, Kanban, Waterfall.
@@ -37,7 +47,7 @@ Project Name | Description | Technologies | Testing
 
 ## <a name=“history”>Career History:</a>
 #### May 2012 to March 2017 (5 years)
-#### Senior Software Engineer: Cisco International Ltd, SPVSS-CE Division (formerly NDS Ltd).
+**Senior Software Engineer: Cisco International Ltd, SPVSS-CE Division (formerly NDS Ltd).**<br>
 I was originally appointed as a Senior Software Integration Engineer with NDS in Staines, UK. My Initial responsibilities included integration and stabilisation of new features and new releases of STB middleware for BSkyB, the largest and most important and innovative customer of NDS. In 2013, NDS was acquired by Cisco, and was incorporated into the SPVSS Custom Engineering division.
 I remained in the SI (System Integration) team for about two years, a large chunk of which I was responsible for an investigation and audit of all of the Open Source and 3rd party contributors in the code base. at which time an opportunity opened in the development team. My responsibilities here were component-owner of the HTTP and HTTPSERVER components of the STB middleware, as well as general development and debugging of any other component as and when required. During this time Cisco made a move to an Agile, git, Gerrit approach and away from the more traditional waterfall approach using the Rational Cleacase/Clearquest tools. Under the new structure, the concept of “component-owner” was replaced by “feature teams” which were responsible for taking features through the full lifecycle of each new feature technical design, development, integration, component testing and full stack testing, and “Guilds” to offer specific technical expertise when required.
 Areas of work/expertise:
@@ -55,7 +65,7 @@ Tools and skills used include:
 - Transport Streams (MPEG/DVB/DekTek), Linux, VirtualBox, GNU/gcc toolchain, STB emulation on VirtualBox, Continuous Integration (CI) test enhancements and support.
 
 #### Mar 2009 to Mar 2012 (3 years)
-#### Software Engineer (contract): Motorola Inc., Point to Point Wireless Networks Division (now Cambium Networks)
+**Software Engineer (contract): Motorola Inc., Point to Point Wireless Networks Division (now Cambium Networks)**<br>
 Appointed to design, develop and implement security components on Motorola’s TI/DSP based point-to-point wireless Ethernet routers.
 - Responsible for implementation, testing and certification of NIST/FIPS Cryptographic Algorithm Validation (CAVS) of all implemented algorithms (AES, DSA, DRNG/DRBG, HMAC, SHA and 3DES/TDES).
 - Development, maintenance, enhancement, hardening (exploitation/penetration etc.) and support of various security and remote management modules and associated user/admin interfaces in compliance with FIPS, NIST and JTIC requirements, including SNMP/v3, Syslog, Telnet, SMTP, SNTP, RADIUS and HTTP/HTTPS/JavaScript, Cross-Site-Scripting, Code injection etc. with user-level exposure to Nessus and similar D/DoS and packet-crafting and injection test tools.
@@ -65,7 +75,7 @@ Appointed to design, develop and implement security components on Motorola’s T
 - Skills used: Agile, Embedded C, TI-CCS v2-v5, ASN-1, OpenSSL, JavaScript, Python, Configuration Management (Clearcase, WICC), Defect Management (Bugzilla, Clearquest, Jira) and problem solving.
 
 #### Dec 2006 to Dec 2008 (2 years)
-#### Software Engineer (contract): Sharp Telecommunications of Europe Ltd. (Berkshire, UK)
+**Software Engineer (contract): Sharp Telecommunications of Europe Ltd. (Berkshire, UK)**<br>
 Appointed to design, develop and implement e-Mail on Sharp's latest 3G, EMP-based handsets. Responsible and technical lead for middleware and application level development and porting to successive new platforms.
 - Maintained and supported all messaging apps and protocols (POP3, IMAP4, SMTP, MMS, SMIL, SMS and WAP).
 - Provided technical leadership to a mid-sized team of staff and international contractors.
@@ -73,7 +83,7 @@ Appointed to design, develop and implement e-Mail on Sharp's latest 3G, EMP-base
 - Skills used: Analysis and design, Team lead, mentoring, embedded C/C++, supplier coordination, test liaison, defect management and problem solving, CVS and ClearQuest. 
 
 #### Jan 1999 to Dec 2006 (8 years)
-#### Software Manager/project Manager: Tresor UK Ltd / Beaucom Inc. / Tripleton Ltd (Purley, UK)
+**Software Manager/project Manager: Tresor UK Ltd / Beaucom Inc. / Tripleton Ltd (Purley, UK)**<br>
 Initially appointed as principle software engineer to this innovative technology arm of the pre-existing Tresor Entertainment group in Munich working on wired and wireless telephony in both niche and mass consumer markets.  Initial projects were wired e-commerce consumer devices for HP, moving into Project Management of mobile phone development under the Beaucom group in Seoul, and ultimately filling the role of Software Manager in the UK spin-off, Tripleton, developing military-grade crypto-telephony and GPS vehicle tracking devices. Adaptability, creativity, innovation and travel were essential in this dynamic and energetic organisation.
 Key skills and technologies used:
 - GSM, GPRS and GPS technologies, C and C++, Cryptographic systems, Mobile messaging and browsing, e-commerce interfaces and technologies (Deutsche Bank, Telesec)
@@ -81,14 +91,14 @@ Key skills and technologies used:
 - Soft skills: Business management, Project management, customer and supplier collaboration and liaison, marketing material, technical sales, training (to engineers, testers, sales, distributors and customers alike), organising and manning representation at security exhibitions in a variety of countries and cultures worldwide.
 
 #### 1996 to 1998 (2 years)
-#### Senior Partner: Ice Technologies Cc (South Africa)
+**Senior Partner: Ice Technologies Cc (South Africa)**<br>
 Software consultancy providing bespoke software solutions to the finance and telecoms sectors.
 - Projects incl.: Remote banking/POS system; Remote Salary & Electronic Payment System; Principle engineer on front-end systems for 3 new banks.
 - Team lead on Y2K project for entire front-end retail banking suite for 3 major banks in the Southern African subcontinent.
 - Skills used: C, C++, Communications/Networking, Testing, Team & Technical lead, client and customer liaison. 
 
 #### 1991 to 1996 (6 years)
-#### Software Manager & Director: Softnet Computer Services (Pty) Ltd (S. Africa)
+**Software Manager & Director: Softnet Computer Services (Pty) Ltd (S. Africa)**<br>
 Co-founder and partner in a software house & consultancy firm providing software development, deployment and support of systems and tools to the finance, education and business sectors.
 - Projects include: Suite of multi-platform, multi-OS, multi-language 4GL/RAD tools; Extensive Pascal-to-C conversion project; Corporate banking remote access systems; Suite of front-end retail banking systems; Security layer for Treasury System; Medical Insurance Analysis & Settlement system.
 - Skills used: Small business and project management, staff recruitment training and management, C, C++, Pascal, VB, Assembler, BTOS/CTOS, Windows, OS/2, NT, AIX Unix, Telecoms and communications security. 

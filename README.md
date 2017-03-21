@@ -1,5 +1,5 @@
 ## Jonathan Gilmore
-### software engineer
+### Software Developer
 
 [Code Examples](#codeexamples) - [Expertise](#expertise) - [Achievements](#achievements) - [History](#history) - [Earlier Positions](#ealierpositions) - [Training](#training) - [Qualifications](#qualifications) - [Personal Details](#personaldetails)<br>
 

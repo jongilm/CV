@@ -14,11 +14,11 @@ I am proud to have consistently managed successful assignments and projects, att
 ## <a name="codeexamples">Code</a> Examples
 Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
-[filter](https://github.com/jongilm/filter) | filter | C++ | .
+[filter](https://github.com/jongilm/filter) | C/textfile Filter Utility | C++ | .
 [Simple C Round Fifo](https://github.com/jongilm/SimpleCRoundFifoExample) | Simple C Round Fifo | C | .
 [Expression Evaluator](https://github.com/jongilm/ExpressionEvaluator) | Expression Evaluator | C++ | .
-[Colour Ramp](https://github.com/jongilm/ColourRamp_Win32) | Colour Ramp| C++ | .
-[Technical Puzzles](https://github.com/jongilm/DC_TechnicalPuzzles) | DC Technical Puzzles | C++ | .
+[Colour Ramp](https://github.com/jongilm/ColourRamp_Win32) | Colour Ramp | C++ | .
+<!-- [Technical Puzzles](https://github.com/jongilm/DC_TechnicalPuzzles) | DC Technical Puzzles | C++ | . -->
 
 
 ## <a name="expertise">Professional Expertise Summary:</a>

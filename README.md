@@ -14,7 +14,12 @@ I am proud to have consistently managed successful assignments and projects, att
 ## <a name="codeexamples">Code</a> Examples
 Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
-[Personal Website](https://github.com/jongilmo/jongilmo.github.io) | My personal website | Javascript | .
+[filter](https://github.com/jongilm/filter) | filter | C++ | .
+[Simple C Round Fifo](https://github.com/jongilm/SimpleCRoundFifoExample) | Simple C Round Fifo | C | .
+[Expression Evaluator](https://github.com/jongilm/ExpressionEvaluator) | Expression Evaluator | C++ | .
+[Colour Ramp](https://github.com/jongilm/ColourRamp_Win32) | Colour Ramp| C++ | .
+[Technical Puzzles](https://github.com/jongilm/DC_TechnicalPuzzles) | DC Technical Puzzles | C++ | .
+
 
 ## <a name="expertise">Professional Expertise Summary:</a>
 - Technical expertise, Project Management, IT Consultancy, Team and technical leadership and mentoring, Agile, Scrum, primarily in the Telecoms and Retail Banking/Financial sectors. Extensive experience in all aspects of the full software lifecycle, including Agile, scrum, git and use of Open Source in commercial/proprietary systems. 

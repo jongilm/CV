@@ -45,6 +45,16 @@ Project Name | Description | Technologies | Testing
 - Recognition and award for an outstanding contribution to the launch of the new Cape of Good Hope Bank, which was on time and within budget and highly acclaimed in the press.
 
 ## <a name="history">Career History:</a>
+
+#### Sep 2017 to Jul 2019 (2 years)
+**Software Engineer (Core): Calastone Ltd, Innovation Team.**<br>
+I was brought on board to help develop their enterprising DMI blockchain product.<br>
+Areas of work/expertise:
+- Node.js, ...
+- 
+Tools and skills used include:<br>
+- Small dynamic team, ...
+
 #### May 2012 to March 2017 (5 years)
 **Senior Software Engineer: Cisco International Ltd, SPVSS-CE Division (formerly NDS Ltd).**<br>
 I was originally appointed as a Senior Software Integration Engineer with NDS in Staines, UK. My Initial responsibilities included integration and stabilisation of new features and new releases of STB middleware for BSkyB, the largest and most important and innovative customer of NDS. In 2013, NDS was acquired by Cisco, and was incorporated into the SPVSS Custom Engineering division.<br>

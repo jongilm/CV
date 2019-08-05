@@ -7,7 +7,7 @@
 eMail: [jonathan@jgilmore.eu](mailto:jonathan@jgilmore.eu)<br>
 About Me: [https://about.me/jonathangilmore/](https://about.me/jonathangilmore/)<br>
 
-A very experienced IT Professional with a wealth of knowledge in all aspects of software development including security related systems and communications, wired and wireless networks, embedded systems, smart card technologies, banking and financial systems.<br>
+A very experienced IT Professional with a wealth of knowledge in all aspects of software development including security related systems and communications, wired and wireless networks, embedded systems, blockchain/DLT systems, smart card technologies, banking and financial systems.<br>
 An adaptable individual offering significant technical expertise, strong troubleshooting skills and a proven ability to implement innovative solutions and optimise resources - seeking either a technical or team lead software engineering/development role in the IT, Telecommunications or Finance sectors.<br>
 I am proud to have consistently managed successful assignments and projects, attributable to thorough and accurate I.S. disciplines and business knowledge supported by an excellent technical background and very good inter-personal and communication skills.<br>
 
@@ -45,6 +45,28 @@ Project Name | Description | Technologies | Testing
 - Recognition and award for an outstanding contribution to the launch of the new Cape of Good Hope Bank, which was on time and within budget and highly acclaimed in the press.
 
 ## <a name="history">Career History:</a>
+
+#### Aug 2017 to Jul 2019 (2 years)
+**Software Engineer (Core): Calastone Ltd, Innovation/Blockchain Team, London City.**<br>
+
+Appointed as a member of the Innovation Team to assist with the development of their enterprising DMI (Distributed Market Infrastructure) blockchain project for Managed Funds.  My primary roll on the team was to bring skills in software lifecycle, Agile, source control, architecture, software engineering disciplines and cross-platform knowledge, and of course, software development as I acquired knowledge of their chosen languages.
+On joining the team, the product had just reached proof of concept level, developed using a CQRS/Event Sourcing model primarily in TypeScript/Angular on Node.js and Solidity on Ethereum, using RabbitMQ and Eventstore for the event stores and MongoDB for the read model, all running on Docker on AWS.  Over the following two years we (the Innovation Team) brought the system up to production level, migrating to SqlServer, Dotnet Core, Service Bus, and Kubernetes on Azure. As a prerequisite, we were guided through development and implementation of OAuth2/OpenID Identity and Claims providers as the corporate Single-Sign-On service.
+The DMI system went through various restructures as the business and performance requirements changed and matured with time, with our Agile approach proving invaluable. The DMI system ultimately went live in May/June 2019, offering a few areas of new functionality for the clients on the Early Adopter Program, but more importantly creating a resilient, robust and secure platform and Blockchain/DLT framework on which future products could be built.
+As the platform was approaching launch, there was another major project being moth-balled, so the company was down-sizing its engineering department. My role having been largely completed, I took advantage of this opportunity to seek greener pastures.
+
+Areas of work/expertise:
+- Full software Lifecycle, Agile, Windows and Linux, VMs and cross platform development, Code Quality.
+- Cloud Security assessment, Documentation, Mentoring and general dissemination of knowledge.
+
+Tools and skills used include:
+- Design, Development, Peer Reviews, Code Quality, Testing, Integration, Security, Marketing.
+- Blockchain, Ethereum, Solidity Smart-Contracts, Javascript/Typscript, Angular, Node.js, Angular, DevExpress, RESTful API, CQRS, RabbitMQ, EventStore, MongoDB, SqlServer, Azure ServiceBus, Docker, Kubernetes, AWS, Azure, Agile.
+- git, GitHub (corporate), TeamCity, Confluence, Linux, Bash, Python, Powershell, DataDog.
+- Wiki, Slack, MS Teams, 
+- Open Source Software (OSS) monitoring, CSA CAIQ (Cloud Security Alliance - Consensus Assessments Initiative Questionnaire) for Cloud based deployments
+- Testing: Unit and e2e testing, PACT testing.
+- Support of Business and Marketing teams on their various exhibitions, conferences, product launches and international roadshows.
+
 #### May 2012 to March 2017 (5 years)
 **Senior Software Engineer: Cisco International Ltd, SPVSS-CE Division (formerly NDS Ltd).**<br>
 I was originally appointed as a Senior Software Integration Engineer with NDS in Staines, UK. My Initial responsibilities included integration and stabilisation of new features and new releases of STB middleware for BSkyB, the largest and most important and innovative customer of NDS. In 2013, NDS was acquired by Cisco, and was incorporated into the SPVSS Custom Engineering division.<br>

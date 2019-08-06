@@ -8,7 +8,7 @@ eMail: [jonathan@jgilmore.eu](mailto:jonathan@jgilmore.eu)<br>
 About Me: [https://about.me/jonathangilmore/](https://about.me/jonathangilmore/)<br>
 
 A very experienced IT Professional with a wealth of knowledge in all aspects of software development including security related systems and communications, wired and wireless networks, embedded systems, blockchain/DLT systems, smart card technologies, banking and financial systems.<br>
-An adaptable individual offering significant technical expertise, strong troubleshooting skills and a proven ability to implement innovative solutions and optimise resources - seeking either a technical or team lead software engineering/development role in the IT, Telecommunications or Finance sectors.<br>
+An adaptable individual offering significant technical expertise, strong troubleshooting skills and a proven ability to implement innovative solutions and optimise resources - seeking either a technical or team lead software engineering/development role in the IT, Telecommunications or Finance sectors.  I am also open to opportunities in training, as this is a particular passion and talent of mine, and/or customer-facing roles.<br>
 I am proud to have consistently managed successful assignments and projects, attributable to thorough and accurate I.S. disciplines and business knowledge supported by an excellent technical background and very good inter-personal and communication skills.<br>
 
 ## <a name="codeexamples">Code</a> Examples
@@ -26,15 +26,16 @@ Project Name | Description | Technologies | Testing
 - Small Business Management, Problem solving, Motivation, Mentoring and guidance, Support and training, Client relationship management, international 3rd party suppliers and consultants.
 - Methodologies: Agile, Scrum, Scrum Master, Kanban, Waterfall.
 - Platforms: Embedded systems, Mobile telephony, Middleware, PC Windows/Console/Linux, and client/server environments.
-- Architectures: Embedded, Object-Oriented (OO), event driven, state machine, multi-process and multi-threaded.
-- Security: Secure Communications (SSL, TLS, and HTTPS), Cryptographic/encryption Systems incl. NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. Some recent exposure to Microsoft PlayReady/CDM.
+- Architectures: Embedded, Object-Oriented (OO), event driven, state machine, multi-process and multi-threaded. CQRS/Event Sourcing model, cloud-based micro-services.
+- Security: Secure Communications (SSL, TLS, and HTTPS), Cryptographic/encryption Systems incl. NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. . DLT/blockchain with Ethereum/Web3 and Solidity smart contracts. Some exposure to Microsoft PlayReady/CDM.
 - Communications and Networking: TCP/IP (and related protocols), HTTP, HTTPS, HTML, GSM/GPRS, Mobile and Multimedia messaging, email and web technologies, MPEG/DVB transport streams, Serial/Async/RS232/Dialup modems etc.
-- Languages: C (33yrs, of which 17yrs in embedded), C++ (5yrs, of which 2yrs in embedded), Python, VB, Pascal, Scripting (incl. bash, perl, python, make, awk, sed, DOS etc.), JavaScript and some Java. 
-- Development Frameworks: Win32 SDK, MFC, Apoxi.
-- Toolchains: GNU/gcc, Visual Studio/MSVC, TI, Infineon, scripting (Perl, Python, bash, make, awk, sed, DOS etc.), JavaScript. Some exposure to C# through self-learning.
-- Configuration management, Defect Management and workflow: Clearcase UCM, Clearquest, ReviewBoard, git, Gerrit, Artifactory, Coverity, Rally, Jira, CDETS, Bugzilla, TestTrack, makefiles, CVS, Wiki, BlackDuck (Protex).
+- Languages: C (33yrs, of which 17yrs in embedded), C++ (5yrs, of which 2yrs in embedded), Python, VB, Pascal, Scripting (incl. bash, perl, python, make/awk/sed/regex, DOS/cmd, Powershell), JavaScript, TypeScript, and some Java, C# and Solidity.
+- Development Frameworks: Win32 SDK, MFC, Apoxi and some dotNet and dotNet Core.
+- Toolchains: GNU/gcc, Visual Studio/MSVC, TI, Infineon, various Windows and Linux scripting tools, JavaScript, Typescript. Some exposure to C#, but not (yet) an expert.
+- Configuration management, Defect Management and workflow: git, github (enterprise), TeamCity, YouTrack, Clearcase UCM, Clearquest, ReviewBoard, Gerrit, Artifactory, Coverity, Rally, Jira, CDETS, Bugzilla, TestTrack, makefiles, CVS, Wiki, BlackDuck (Protex).
 
 ## <a name="achievements">Career Achievements Include:</a>
+- Team recognition for the successful Go-Live of the Calastone DMI blockchain platform in May 2019.
 - Recognition and award for valuable contribution towards successful launch of the BskyB Adsmart and Sky-Q STB projects.
 - Successful audit of 3rd party and open source software components used in the middleware of both Darwin (legacy) and Ethan (Sky-Q) STB code repository.
 - Recognition for contribution towards FIPS/NIST CAVS certification of Motorola’s family of point-to-point wireless routers, opening up new markets in the defense and public safety spaces.
@@ -50,7 +51,7 @@ Project Name | Description | Technologies | Testing
 **Software Engineer (Core): Calastone Ltd, Innovation/Blockchain Team, London City.**<br>
 
 Appointed as a member of the Innovation Team to assist with the development of their enterprising DMI (Distributed Market Infrastructure) blockchain project for Managed Funds.  My primary roll on the team was to bring skills in software lifecycle, Agile, source control, architecture, software engineering disciplines and cross-platform knowledge, and of course, software development as I acquired knowledge of their chosen languages.
-On joining the team, the product had just reached proof of concept level, developed using a CQRS/Event Sourcing model primarily in TypeScript/Angular on Node.js and Solidity on Ethereum, using RabbitMQ and EventStore for the event stores and MongoDB for the read model, all running on Docker on AWS.  Over the following two years we (the Innovation Team) brought the system up to production level, migrating to SqlServer, Dotnet Core, Service Bus, and Kubernetes on Azure. As a prerequisite, we were guided through development and implementation of OAuth2/OpenID identity and claims providers as the corporate Single-Sign-On service.
+On joining the team, the product had just reached proof of concept level, developed using a CQRS/Event Sourcing model primarily in Typescript/Angular on Node.js and Solidity on Ethereum, using RabbitMQ and EventStore for the event stores and MongoDB for the read model, all running on Docker on AWS.  Over the following two years we (the Innovation Team) brought the system up to production level, migrating to SqlServer, Dotnet Core, Service Bus, and Kubernetes on Azure. As a prerequisite, we were guided through development and implementation of OAuth2/OpenID identity and claims providers as the corporate Single-Sign-On service.
 The DMI system went through various restructures as the business and performance requirements changed and matured with time, with our Agile approach proving invaluable. The DMI system ultimately went live in May/June 2019, offering a few areas of new functionality for the clients on the Early Adopter Program, but more importantly creating a resilient, robust and secure platform and Blockchain/DLT framework on which future products could be built.
 As the platform was approaching launch, there was another major project being moth-balled, so the company was down-sizing its engineering department. My role having been largely completed, I took advantage of this opportunity to seek new pastures.
 
@@ -61,7 +62,7 @@ Areas of work/expertise:
 
 Tools and skills used include:
 - Design, Development, Code Quality, Testing, Integration, Security, Marketing.
-- Distributed Ledger Technology (DLT/Blockchain), Ethereum, Solidity Smart-Contracts, Web3, JavaScript, Node.js, Angular, DevExpress, RESTful API, CQRS, Dotnet Core, Cloud-based microservices
+- Distributed Ledger Technology (DLT/Blockchain), Ethereum, Solidity Smart-Contracts, Web3, Javascript/Typescript, Node.js, Angular, DevExpress, RESTful API, CQRS, Dotnet Core, Cloud-based microservices
 - RabbitMQ, EventStore, MongoDB, SqlServer, Azure ServiceBus, Docker, Kubernetes, AWS, Azure.
 - git, GitHub (corporate), TeamCity, Confluence, Linux, Bash, Python, Powershell, DataDog.
 - Testing: Unit and e2e testing, PACT testing.
@@ -72,7 +73,7 @@ Tools and skills used include:
 #### May 2012 to March 2017 (5 years)
 **Senior Software Engineer: Cisco International Ltd, SPVSS-CE Division (formerly NDS Ltd).**<br>
 I was originally appointed as a Senior Software Integration Engineer with NDS in Staines, UK. My Initial responsibilities included integration and stabilisation of new features and new releases of STB middleware for BSkyB, the largest and most important and innovative customer of NDS. In 2013, NDS was acquired by Cisco, and was incorporated into the SPVSS Custom Engineering division.<br>
-I remained in the SI (System Integration) team for about two years, a large chunk of which I was responsible for an investigation and audit of all of the Open Source and 3rd party contributors in the code base. at which time an opportunity opened in the development team. My responsibilities here were component-owner of the HTTP and HTTPSERVER components of the STB middleware, as well as general development and debugging of any other component as and when required. During this time Cisco made a move to an Agile, git, Gerrit approach and away from the more traditional waterfall approach using the Rational ClearCase/ClearQuest tools. Under the new structure, the concept of “component-owner” was replaced by “feature teams” which were responsible for taking features through the full lifecycle of each new feature technical design, development, integration, component testing and full stack testing, and “Guilds” to offer specific technical expertise when required.<br>
+I remained in the SI (System Integration) team for about two years, a large chunk of which I was responsible for an investigation and audit of all of the Open Source and 3rd party contributors in the code base, at which time an opportunity opened in the development team. My responsibilities here were component-owner of the HTTP and HTTPSERVER components of the STB middleware, as well as general development and debugging of any other component as and when required. During this time Cisco made a move to an Agile, git, Gerrit approach and away from the more traditional waterfall approach using the Rational ClearCase/ClearQuest tools. Under the new structure, the concept of “component-owner” was replaced by “feature teams” which were responsible for taking features through the full lifecycle of each new feature technical design, development, integration, component testing and full stack testing, and “Guilds” to offer specific technical expertise when required.<br>
 Areas of work/expertise:
 - BskyB, Fusion, Ethan, Sky-Q, On Demand/VOD, UHD, Adsmart.
 - System Integration, General defect triage, Debugging, Log analysis, Enhancement of auto-test and auto-log-analysis scripts.

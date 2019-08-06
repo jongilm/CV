@@ -1,5 +1,6 @@
 ## Jonathan Gilmore
 ### Software Developer
+Release 2019.4
 
 [Code Examples](#codeexamples) - [Expertise](#expertise) - [Achievements](#achievements) - [History](#history) - [Earlier Positions](#ealierpositions) - [Training](#training) - [Qualifications](#qualifications) - [Personal Details](#personaldetails)<br>
 

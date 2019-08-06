@@ -32,12 +32,12 @@ Project Name | Description | Technologies | Testing
 - Languages: C (33yrs, of which 17yrs in embedded), C++ (5yrs, of which 2yrs in embedded), Python, VB, Pascal, Scripting (incl. bash, perl, python, make, awk, sed, DOS etc.), JavaScript and some Java. 
 - Development Frameworks: Win32 SDK, MFC, Apoxi.
 - Toolchains: GNU/gcc, Visual Studio/MSVC, TI, Infineon, scripting (Perl, Python, bash, make, awk, sed, DOS etc.), JavaScript. Some exposure to C# through self-learning.
-- Configuration management, Defect Management and workflow: Clearcase UCM, Clearquest, Reviewboard, git, Gerrit, Artifactory, Coverity, Rally, Jira, CDETS, Bugzilla, Testtrack, makefiles, CVS, Wiki, Blackduck (Protex).
+- Configuration management, Defect Management and workflow: Clearcase UCM, Clearquest, ReviewBoard, git, Gerrit, Artifactory, Coverity, Rally, Jira, CDETS, Bugzilla, TestTrack, makefiles, CVS, Wiki, BlackDuck (Protex).
 
 ## <a name="achievements">Career Achievements Include:</a>
 - Recognition and award for valuable contribution towards successful launch of the BskyB Adsmart and Sky-Q STB projects.
 - Successful audit of 3rd party and open source software components used in the middleware of both Darwin (legacy) and Ethan (Sky-Q) STB code repository.
-- Recognition for contribution towards FIPS/NIST CAVS certification of Motorola’s family of point-to-point wireless routers, opening up new markets in the defence and public safety spaces.
+- Recognition for contribution towards FIPS/NIST CAVS certification of Motorola’s family of point-to-point wireless routers, opening up new markets in the defense and public safety spaces.
 - Implementation of email & messaging apps in high-end mobile handsets for global market (Sharp).
 - Design, development and marketing of a range of Vehicle/Asset tracking devices using GSM/GPRS and GPS technology.
 - Development and coordination the software aspects of a highly successful military-grade crypto-mobile phone used, at the time, by a variety of presidential offices and security agencies worldwide.
@@ -50,27 +50,29 @@ Project Name | Description | Technologies | Testing
 **Software Engineer (Core): Calastone Ltd, Innovation/Blockchain Team, London City.**<br>
 
 Appointed as a member of the Innovation Team to assist with the development of their enterprising DMI (Distributed Market Infrastructure) blockchain project for Managed Funds.  My primary roll on the team was to bring skills in software lifecycle, Agile, source control, architecture, software engineering disciplines and cross-platform knowledge, and of course, software development as I acquired knowledge of their chosen languages.
-On joining the team, the product had just reached proof of concept level, developed using a CQRS/Event Sourcing model primarily in TypeScript/Angular on Node.js and Solidity on Ethereum, using RabbitMQ and Eventstore for the event stores and MongoDB for the read model, all running on Docker on AWS.  Over the following two years we (the Innovation Team) brought the system up to production level, migrating to SqlServer, Dotnet Core, Service Bus, and Kubernetes on Azure. As a prerequisite, we were guided through development and implementation of OAuth2/OpenID Identity and Claims providers as the corporate Single-Sign-On service.
+On joining the team, the product had just reached proof of concept level, developed using a CQRS/Event Sourcing model primarily in TypeScript/Angular on Node.js and Solidity on Ethereum, using RabbitMQ and EventStore for the event stores and MongoDB for the read model, all running on Docker on AWS.  Over the following two years we (the Innovation Team) brought the system up to production level, migrating to SqlServer, Dotnet Core, Service Bus, and Kubernetes on Azure. As a prerequisite, we were guided through development and implementation of OAuth2/OpenID identity and claims providers as the corporate Single-Sign-On service.
 The DMI system went through various restructures as the business and performance requirements changed and matured with time, with our Agile approach proving invaluable. The DMI system ultimately went live in May/June 2019, offering a few areas of new functionality for the clients on the Early Adopter Program, but more importantly creating a resilient, robust and secure platform and Blockchain/DLT framework on which future products could be built.
 As the platform was approaching launch, there was another major project being moth-balled, so the company was down-sizing its engineering department. My role having been largely completed, I took advantage of this opportunity to seek new pastures.
 
 Areas of work/expertise:
 - Full software Lifecycle, Agile, Windows and Linux, VMs and cross platform development, Code Quality.
 - Cloud Security assessment, Documentation, Mentoring and general dissemination of knowledge.
+- Networks and Networking, Cloud based Microservices
 
 Tools and skills used include:
-- Design, Development, Peer Reviews, Code Quality, Testing, Integration, Security, Marketing.
-- Blockchain, Ethereum, Solidity Smart-Contracts, Javascript/Typscript, Angular, Node.js, Angular, DevExpress, RESTful API, CQRS, RabbitMQ, EventStore, MongoDB, SqlServer, Azure ServiceBus, Docker, Kubernetes, AWS, Azure, Agile.
+- Design, Development, Code Quality, Testing, Integration, Security, Marketing.
+- Distributed Ledger Technology (DLT/Blockchain), Ethereum, Solidity Smart-Contracts, JavaScript, Angular, Node.js, Angular, DevExpress, RESTful API, CQRS, Dotnet Core, Cloud based Microservices
+- RabbitMQ, EventStore, MongoDB, SqlServer, Azure ServiceBus, Docker, Kubernetes, AWS, Azure.
 - git, GitHub (corporate), TeamCity, Confluence, Linux, Bash, Python, Powershell, DataDog.
-- Wiki, Slack, MS Teams, 
-- Open Source Software (OSS) monitoring, CSA CAIQ (Cloud Security Alliance - Consensus Assessments Initiative Questionnaire) for Cloud based deployments
 - Testing: Unit and e2e testing, PACT testing.
+- Agile, YouTrack, Peer Reviews, Wiki, Slack, MS Teams
+- Open Source Software (OSS) monitoring, CSA CAIQ (Cloud Security Alliance - Consensus Assessments Initiative Questionnaire) for Cloud based deployments
 - Support of Business and Marketing teams on their various exhibitions, conferences, product launches and international roadshows.
 
 #### May 2012 to March 2017 (5 years)
 **Senior Software Engineer: Cisco International Ltd, SPVSS-CE Division (formerly NDS Ltd).**<br>
 I was originally appointed as a Senior Software Integration Engineer with NDS in Staines, UK. My Initial responsibilities included integration and stabilisation of new features and new releases of STB middleware for BSkyB, the largest and most important and innovative customer of NDS. In 2013, NDS was acquired by Cisco, and was incorporated into the SPVSS Custom Engineering division.<br>
-I remained in the SI (System Integration) team for about two years, a large chunk of which I was responsible for an investigation and audit of all of the Open Source and 3rd party contributors in the code base. at which time an opportunity opened in the development team. My responsibilities here were component-owner of the HTTP and HTTPSERVER components of the STB middleware, as well as general development and debugging of any other component as and when required. During this time Cisco made a move to an Agile, git, Gerrit approach and away from the more traditional waterfall approach using the Rational Cleacase/Clearquest tools. Under the new structure, the concept of “component-owner” was replaced by “feature teams” which were responsible for taking features through the full lifecycle of each new feature technical design, development, integration, component testing and full stack testing, and “Guilds” to offer specific technical expertise when required.<br>
+I remained in the SI (System Integration) team for about two years, a large chunk of which I was responsible for an investigation and audit of all of the Open Source and 3rd party contributors in the code base. at which time an opportunity opened in the development team. My responsibilities here were component-owner of the HTTP and HTTPSERVER components of the STB middleware, as well as general development and debugging of any other component as and when required. During this time Cisco made a move to an Agile, git, Gerrit approach and away from the more traditional waterfall approach using the Rational ClearCase/ClearQuest tools. Under the new structure, the concept of “component-owner” was replaced by “feature teams” which were responsible for taking features through the full lifecycle of each new feature technical design, development, integration, component testing and full stack testing, and “Guilds” to offer specific technical expertise when required.<br>
 Areas of work/expertise:
 - BskyB, Fusion, Ethan, Sky-Q, On Demand/VOD, UHD, Adsmart.
 - System Integration, General defect triage, Debugging, Log analysis, Enhancement of auto-test and auto-log-analysis scripts.

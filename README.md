@@ -61,7 +61,7 @@ Areas of work/expertise:
 
 Tools and skills used include:
 - Design, Development, Code Quality, Testing, Integration, Security, Marketing.
-- Distributed Ledger Technology (DLT/Blockchain), Ethereum, Solidity Smart-Contracts, JavaScript, Angular, Node.js, Angular, DevExpress, RESTful API, CQRS, Dotnet Core, Cloud based Microservices
+- Distributed Ledger Technology (DLT/Blockchain), Ethereum, Solidity Smart-Contracts, Web3, JavaScript, Node.js, Angular, DevExpress, RESTful API, CQRS, Dotnet Core, Cloud-based microservices
 - RabbitMQ, EventStore, MongoDB, SqlServer, Azure ServiceBus, Docker, Kubernetes, AWS, Azure.
 - git, GitHub (corporate), TeamCity, Confluence, Linux, Bash, Python, Powershell, DataDog.
 - Testing: Unit and e2e testing, PACT testing.

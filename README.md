@@ -1,6 +1,6 @@
 ## Jonathan Gilmore
 ### Software Developer
-Release 2019.4
+Release 2019.5
 
 [Code Examples](#codeexamples) - [Expertise](#expertise) - [Achievements](#achievements) - [History](#history) - [Earlier Positions](#ealierpositions) - [Training](#training) - [Qualifications](#qualifications) - [Personal Details](#personaldetails)<br>
 
@@ -9,7 +9,7 @@ eMail: [jonathan@jgilmore.eu](mailto:jonathan@jgilmore.eu)<br>
 About Me: [https://about.me/jonathangilmore/](https://about.me/jonathangilmore/)<br>
 
 A very experienced IT Professional with a wealth of knowledge in all aspects of software development including security related systems and communications, wired and wireless networks, embedded systems, blockchain/DLT systems, smart card technologies, banking and financial systems.<br>
-An adaptable individual offering significant technical expertise, strong troubleshooting skills and a proven ability to implement innovative solutions and optimise resources - seeking either a technical or team lead software engineering/development role in the IT, Telecommunications or Finance sectors.  I am also open to opportunities in training, as this is a particular passion and talent of mine, and/or customer-facing roles.<br>
+An adaptable individual offering significant technical expertise, strong troubleshooting skills and a proven ability to implement innovative solutions and optimise resources - seeking either a technical or team lead software engineering/development role in the IT, Telecommunications or Finance sectors. I am also open to opportunities in training, as this is a particular passion and talent of mine, and/or customer-facing roles.<br>
 I am proud to have consistently managed successful assignments and projects, attributable to thorough and accurate I.S. disciplines and business knowledge supported by an excellent technical background and very good inter-personal and communication skills.<br>
 
 ## <a name="codeexamples">Code</a> Examples
@@ -28,18 +28,18 @@ Project Name | Description | Technologies | Testing
 - Methodologies: Agile, Scrum, Scrum Master, Kanban, Waterfall.
 - Platforms: Embedded systems, Mobile telephony, Middleware, PC Windows/Console/Linux, and client/server environments.
 - Architectures: Embedded, Object-Oriented (OO), event driven, state machine, multi-process and multi-threaded. CQRS/Event Sourcing model, cloud-based micro-services.
-- Security: Secure Communications (SSL, TLS, and HTTPS), Cryptographic/encryption Systems incl. NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. . DLT/blockchain with Ethereum/Web3 and Solidity smart contracts. Some exposure to Microsoft PlayReady/CDM.
+- Security: Secure Communications (SSL, TLS, and HTTPS), Cryptographic/encryption Systems incl. NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. DLT/blockchain with Ethereum/Web3 and Solidity smart contracts. Some exposure to Microsoft PlayReady/CDM.
 - Communications and Networking: TCP/IP (and related protocols), HTTP, HTTPS, HTML, GSM/GPRS, Mobile and Multimedia messaging, email and web technologies, MPEG/DVB transport streams, Serial/Async/RS232/Dialup modems etc.
-- Languages: C (33yrs, of which 17yrs in embedded), C++ (5yrs, of which 2yrs in embedded), Python, VB, Pascal, Scripting (incl. bash, perl, python, make/awk/sed/regex, DOS/cmd, Powershell), JavaScript, TypeScript, and some Java, C# and Solidity.
+- Languages: C (33yrs, of which 17yrs in embedded), C++ (5yrs, of which 2yrs in embedded), Python, VB, Pascal, Scripting (incl. bash, Perl, python, make/awk/sed/regex, DOS/cmd, Powershell), JavaScript, Typescript, and some Java, C# and Solidity.
 - Development Frameworks: Win32 SDK, MFC, Apoxi and some dotNet and dotNet Core.
 - Toolchains: GNU/gcc, Visual Studio/MSVC, TI, Infineon, various Windows and Linux scripting tools, JavaScript, Typescript. Some exposure to C#, but not (yet) an expert.
-- Configuration management, Defect Management and workflow: git, github (enterprise), TeamCity, YouTrack, Clearcase UCM, Clearquest, ReviewBoard, Gerrit, Artifactory, Coverity, Rally, Jira, CDETS, Bugzilla, TestTrack, makefiles, CVS, Wiki, BlackDuck (Protex).
+- Configuration management, Defect Management and workflow: git, github (enterprise), TeamCity, YouTrack, ClearCase UCM, ClearQuest, ReviewBoard, Gerrit, Artifactory, Coverity, Rally, Jira, CDETS, Bugzilla, TestTrack, makefiles, CVS, Wiki, BlackDuck (Protex).
 
 ## <a name="achievements">Career Achievements Include:</a>
-- Team recognition for the successful Go-Live of the Calastone DMI blockchain platform in May 2019.
+- Recognition for the successful Go-Live of the Calastone DMI blockchain platform in May 2019.
 - Recognition and award for valuable contribution towards successful launch of the BskyB Adsmart and Sky-Q STB projects.
 - Successful audit of 3rd party and open source software components used in the middleware of both Darwin (legacy) and Ethan (Sky-Q) STB code repository.
-- Recognition for contribution towards FIPS/NIST CAVS certification of Motorola’s family of point-to-point wireless routers, opening up new markets in the defense and public safety spaces.
+- Recognition for contribution towards FIPS/NIST CAVS certification of Motorola's family of point-to-point wireless routers, opening up new markets in the defence and public safety spaces.
 - Implementation of email & messaging apps in high-end mobile handsets for global market (Sharp).
 - Design, development and marketing of a range of Vehicle/Asset tracking devices using GSM/GPRS and GPS technology.
 - Development and coordination the software aspects of a highly successful military-grade crypto-mobile phone used, at the time, by a variety of presidential offices and security agencies worldwide.
@@ -74,7 +74,7 @@ Tools and skills used include:
 #### May 2012 to March 2017 (5 years)
 **Senior Software Engineer: Cisco International Ltd, SPVSS-CE Division (formerly NDS Ltd).**<br>
 I was originally appointed as a Senior Software Integration Engineer with NDS in Staines, UK. My Initial responsibilities included integration and stabilisation of new features and new releases of STB middleware for BSkyB, the largest and most important and innovative customer of NDS. In 2013, NDS was acquired by Cisco, and was incorporated into the SPVSS Custom Engineering division.<br>
-I remained in the SI (System Integration) team for about two years, a large chunk of which I was responsible for an investigation and audit of all of the Open Source and 3rd party contributors in the code base, at which time an opportunity opened in the development team. My responsibilities here were component-owner of the HTTP and HTTPSERVER components of the STB middleware, as well as general development and debugging of any other component as and when required. During this time Cisco made a move to an Agile, git, Gerrit approach and away from the more traditional waterfall approach using the Rational ClearCase/ClearQuest tools. Under the new structure, the concept of “component-owner” was replaced by “feature teams” which were responsible for taking features through the full lifecycle of each new feature technical design, development, integration, component testing and full stack testing, and “Guilds” to offer specific technical expertise when required.<br>
+I remained in the SI (System Integration) team for about two years, a large chunk of which I was responsible for an investigation and audit of all of the Open Source and 3rd party contributors in the code base, at which time an opportunity opened in the development team. My responsibilities here were component-owner of the HTTP and HTTPSERVER components of the STB middleware, as well as general development and debugging of any other component as and when required. During this time Cisco made a move to an Agile, git, Gerrit approach and away from the more traditional waterfall approach using the Rational ClearCase/ClearQuest tools. Under the new structure, the concept of "component-owner" was replaced by "feature teams" which were responsible for taking features through the full lifecycle of each new feature technical design, development, integration, component testing and full stack testing, and "Guilds" to offer specific technical expertise when required.<br>
 Areas of work/expertise:
 - BskyB, Fusion, Ethan, Sky-Q, On Demand/VOD, UHD, Adsmart.
 - System Integration, General defect triage, Debugging, Log analysis, Enhancement of auto-test and auto-log-analysis scripts.
@@ -85,19 +85,19 @@ Areas of work/expertise:
 Tools and skills used include:<br>
 - International team, Collaborative development, Peer Reviews, Code Quality, Testing, Integration.
 - Curl, lighttpd, openssl, and various proprietary secure communication subsystems, multi-process multi-threaded architectures.
-- git, Artifactory, Gerrit, Clearcase UCM, Jira, CDETS, Clearquest, C, C++, CUnit, Linux, Bash, Python, Perl, Jive, Rally, ReviewBoard, Hudson/Jenkins, Wiki.
+- git, Artifactory, Gerrit, ClearCase UCM, Jira, CDETS, ClearQuest, C, C++, CUnit, Linux, Bash, Python, Perl, Jive, Rally, ReviewBoard, Hudson/Jenkins, Wiki.
 - Open Source Software (OSS), COSI, IPCentral, BlackDuck Protex, Common Vulnerabilities and Exposures database (CVE).
 - Transport Streams (MPEG/DVB/DekTek), Linux, VirtualBox, GNU/gcc toolchain, STB emulation on VirtualBox, Continuous Integration (CI) test enhancements and support.
 
 #### Mar 2009 to Mar 2012 (3 years)
 **Software Engineer (contract): Motorola Inc., Point to Point Wireless Networks Division (now Cambium Networks)**<br>
-Appointed to design, develop and implement security components on Motorola’s TI/DSP based point-to-point wireless Ethernet routers.<br>
+Appointed to design, develop and implement security components on Motorola's TI/DSP based point-to-point wireless Ethernet routers.<br>
 - Responsible for implementation, testing and certification of NIST/FIPS Cryptographic Algorithm Validation (CAVS) of all implemented algorithms (AES, DSA, DRNG/DRBG, HMAC, SHA and 3DES/TDES).
 - Development, maintenance, enhancement, hardening (exploitation/penetration etc.) and support of various security and remote management modules and associated user/admin interfaces in compliance with FIPS, NIST and JTIC requirements, including SNMP/v3, Syslog, Telnet, SMTP, SNTP, RADIUS and HTTP/HTTPS/JavaScript, Cross-Site-Scripting, Code injection etc. with user-level exposure to Nessus and similar D/DoS and packet-crafting and injection test tools.
 - Audit and optimisation of Open Source and Commercial components of new Linux based 802.11 wireless router.
-- Configuration management (git, Clearcase, Mercurial, CVS, PVCS), defect management and test liaison.
+- Configuration management (git, ClearCase, Mercurial, CVS, PVCS), defect management and test liaison.
 - Successfully met the internal standards, quality requirements, delivery schedules and production schedules.
-- Skills used: Agile, Embedded C, TI-CCS v2-v5, ASN-1, OpenSSL, JavaScript, Python, Configuration Management (Clearcase, WICC), Defect Management (Bugzilla, Clearquest, Jira) and problem solving.
+- Skills used: Agile, Embedded C, TI-CCS v2-v5, ASN-1, OpenSSL, JavaScript, Python, Configuration Management (ClearCase, WICC), Defect Management (Bugzilla, ClearQuest, Jira) and problem solving.
 
 #### Dec 2006 to Dec 2008 (2 years)
 **Software Engineer (contract): Sharp Telecommunications of Europe Ltd. (Berkshire, UK)**<br>
@@ -137,7 +137,7 @@ Co-founder and partner in a software house & consultancy firm providing software
 - Advanced C++ Programming (Incl. C11); Python: Intensive Introduction; Java JNI Embedded;
 - Agile: ScrumMaster; Scrum Fundamentals for Teams, User Stories Workshop; SAFe (Scaled Agile Framework): SAFe Scrum/XP for Teams; SAFe Basic Fundamentals for Managers.
 - Cisco Security White Belt Foundation; Cisco Security White Belt Advanced; Conditional Access (CA): Introduction to CA; Intermediate CA
-- WIFI 101 Foundation; HTML5 Introduction; Clearcase Command Line
+- WIFI 101 Foundation; HTML5 Introduction; ClearCase Command Line
 - Transport Streams (MPEG,DVB): Understanding Transport Streams; Service Information (SIM), Database (PCAT), File Delivery (FDM), Content Transfer (CTM)
 - GSM/GPRS Protocol Stack Architecture and Implementation; M2M Application Design and Development; Advanced APOXI Design, Support and Enhancement.
 - GSM Strengths and Weaknesses; Design and implementation of One-Time-Pass Technologies; Cryptography; Crypto Techniques; Establishment of a Cryptographic Certification Authority.

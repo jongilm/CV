@@ -48,6 +48,26 @@ Project Name | Description | Technologies | Testing
 
 ## <a name="history">Career History:</a>
 
+#### Sep 2019 to Present
+**Software Engineer (Crypto & Security): Cambridge Quantum Computing Ltd, Cyber Security Division, Chessington.**<br>
+
+Appointed as a member of the CQC Cyber Security Team to assist with the development of their IronBridge project delivering quantum sourced entropy to partners and third-party clients, and also offering implementations of the quantum-resistant (post-quantum) crypto algorithms currently being assessed by NIST.  My primary roll was that of middleware and server components in CPP, C, C# and JS, but soon grew to also encompass embedded software (primarily C) on a variety of Xilinx Zynq 7xxx FPGA/ARM devices.
+
+Other areas of development include development of OpenSSL engine plugins to make IronBridge randomness available to applications and users via the standard OpenSSL API and command line tools.  The primary aspect of this involved acquiring the randomness from a remote IronBridge server/API using post-quantum KEM (Key Encapsulation), signing and PQ approved ciphers. One of the areas of application of this technology was in the secure take-on and communication between nodes in a Ethereum blockchain DLT - specifically evaluating the possibility of economically verifying a Falcon PQ Signature from within the blockchain by means of a smart contract implemented in Solidity.
+
+Areas of work/expertise:
+- Full software Lifecycle, Windows and Linux, VMs and cross platform development, Code Quality.
+- Implementation of Crypto-systems using existing algorithms, Documentation, Mentoring and general dissemination of knowledge.
+- Networks and Networking
+
+Tools and skills used include:
+- Design, Development, Code Quality, Testing, Integration, Security.
+- Distributed Ledger Technology (DLT/Blockchain), Ethereum, Solidity Smart-Contracts, Javascript, Node.js, RESTful API
+- MongoDB, SqlServer, MySQL, Docker, AWS, Azure.
+- git, GitHub/GitLab, Jira, Confluence, Linux, Bash.
+- Agile, Slack, Zoom
+- Open Source Software (OSS) and montoring of the currently approved algorithms by NIST
+
 #### Aug 2017 to Jul 2019 (2 years)
 **Software Engineer (Core): Calastone Ltd, Innovation/Blockchain Team, London City.**<br>
 

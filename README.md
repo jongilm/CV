@@ -1,6 +1,6 @@
 ## Jonathan Gilmore
 ### Software Developer
-Release 2021.1
+Release 2023.1
 
 Available online at [here](https://github.com/jongilm/CV/edit/master/README.md).
 
@@ -25,37 +25,43 @@ Project Name | Description | Technologies | Testing
 
 
 ## <a name="expertise">Professional Expertise Summary:</a>
-- Technical expertise, Project Management, IT Consultancy, Team and technical leadership and mentoring, Agile, Scrum, primarily in the Telecoms and Retail Banking/Financial sectors. Extensive experience in all aspects of the full software lifecycle, including Agile, scrum, git and use of Open Source in commercial/proprietary systems. 
+- Technical expertise, Team and project management, IT consultancy, Team and technical leadership and mentoring, Agile, Scrum, primarily in the Security related system, Telecoms and Retail Banking/Financial sectors. Extensive experience in all aspects of the full software lifecycle, including Agile, scrum, git and use of Open Source in commercial/proprietary systems. 
 - Small Business Management, Problem solving, Motivation, Mentoring and guidance, Support and training, Client relationship management, international 3rd party suppliers and consultants.
 - Methodologies: Agile, Scrum, Scrum Master, Kanban, Waterfall.
-- Platforms: Embedded systems, Mobile telephony, Middleware, PC Windows/Console/Linux, and client/server environments.
-- Architectures: Embedded, Object-Oriented (OO), event driven, state machine, multi-process and multi-threaded. CQRS/Event Sourcing model, cloud-based micro-services.
-- Security: Secure Communications (SSL, TLS, and HTTPS), Cryptographic/encryption Systems incl. NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. DLT/blockchain with Ethereum/Web3 and Solidity smart contracts. Some exposure to Microsoft PlayReady/CDM.
+- Platforms: Embedded systems, Mobile telephony, Middleware, PC Windows/Console/Linux, client/server and cloud environments.
+- Architectures: Embedded, Object-Oriented (OO), event driven, state machine, multi-process and multi-threaded, Blockchain, VM. CQRS/Event Sourcing model, cloud-based micro-services.
+- Security: Post-Quantum Cyber Security (incl. Falcon, Dilithium, Sphincs+, Kyber and some of their competitors in the NIST PQC project), Secure Communications (SSL, TLS, and HTTPS, OpenSSL, MBedTLS), Cryptographic/encryption Systems incl. DRNG/PRNG/HWRNG/QRNG, NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. DLT/blockchain with Ethereum/Web3 and Solidity smart contracts. Some exposure to Microsoft PlayReady/CDM. 
 - Communications and Networking: TCP/IP (and related protocols), HTTP, HTTPS, HTML, GSM/GPRS, Mobile and Multimedia messaging, email and web technologies, MPEG/DVB transport streams, Serial/Async/RS232/Dialup modems etc.
-- Languages: C (33yrs, of which 17yrs in embedded), C++ (5yrs, of which 2yrs in embedded), Python, VB, Pascal, Scripting (incl. bash, Perl, python, make/awk/sed/regex, DOS/cmd, Powershell), JavaScript, Typescript, and some Java, C# and Solidity.
+- Languages: C (37yrs, of which 17yrs in embedded), C++ (Upto C++14) (8yrs, of which 2yrs in embedded), C# (2yrs), JavaScript & Typescript (3yrs), Solidity, VB, Pascal and various scripting environments incl. bash, Perl, python, make/awk/sed/regex, DOS/cmd, Powershell.
 - Development Frameworks: Win32 SDK, MFC, Apoxi and some dotNet and dotNet Core.
-- Toolchains: GNU/gcc, Visual Studio/MSVC, TI, Infineon, various Windows and Linux scripting tools, JavaScript, Typescript. Some exposure to C#, but not (yet) an expert.
+- Toolchains: GNU/gcc, CLang, Visual Studio/MSVC, TI, Infineon, various Windows and Linux scripting tools, JavaScript, Typescript. C#.
 - Configuration management, Defect Management and workflow: git, github (enterprise), TeamCity, YouTrack, ClearCase UCM, ClearQuest, ReviewBoard, Gerrit, Artifactory, Coverity, Rally, Jira, CDETS, Bugzilla, TestTrack, makefiles, CVS, Wiki, BlackDuck (Protex).
 
 ## <a name="achievements">Career Achievements Include:</a>
-- Recognition for the successful Go-Live of the Calastone DMI blockchain platform in May 2019.
-- Recognition and award for valuable contribution towards successful launch of the BskyB Adsmart and Sky-Q STB projects.
-- Successful audit of 3rd party and open source software components used in the middleware of both Darwin (legacy) and Ethan (Sky-Q) STB code repository.
+- Senior member of the small **Quantinuum** (previously known as **Cambridge Quantum Computing**) that developed and launched **"Quantum Origin"**, delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing. 
+- Co-author of paper **arXiv:2106.06640 [quant-ph] "Quantum-resistance in blockchain networks"**, published 11-Jun-2021 https://doi.org/10.48550/arXiv.2106.06640
+- Recognition for the successful go-live of the **Calastone DMI private blockchain platform** in May 2019.
+- Recognition and award for valuable contribution towards successful launch of the **BskyB Adsmart** and **Sky-Q** STB projects.
+- Successful audit of 3rd party and open source software components used in the middleware of both **Darwin** (legacy) and **Ethan** (Sky-Q) STB code repository.
 - Recognition for contribution towards FIPS/NIST CAVS certification of Motorola's family of point-to-point wireless routers, opening up new markets in the defence and public safety spaces.
 - Implementation of email & messaging apps in high-end mobile handsets for global market (Sharp).
-- Design, development and marketing of a range of Vehicle/Asset tracking devices using GSM/GPRS and GPS technology.
+- Design, development and marketing of a range of **AVL** Vehicle/Asset tracking devices using GSM/GPRS and GPS technology.
 - Development and coordination the software aspects of a highly successful military-grade crypto-mobile phone used, at the time, by a variety of presidential offices and security agencies worldwide.
-- Co-founded, managed and grew a software company to a team of >20 specialist staff serving the retail banking sector and achieving certification as a Lotus Partner and accredited by Novell.
-- Recognition and award for an outstanding contribution to the launch of the new Cape of Good Hope Bank, which was on time and within budget and highly acclaimed in the press.
+- Co-founded, managed and grew a software company, **Softnet** to a team of >20 specialist staff serving the retail banking sector and achieving certification as a Lotus Partner and accredited by Novell.
+- Recognition and award for an outstanding contribution to the launch of the new **Cape of Good Hope Bank**, which was on time and within budget and highly acclaimed in the press.
 
 ## <a name="history">Career History:</a>
 
 #### Sep 2019 to Present
-**Software Engineer (Crypto & Security): Cambridge Quantum Computing Ltd, Cyber Security Division, Chessington.**<br>
+**Senior Software Engineer (Crypto & Security): Quantinuum (previously known as Cambridge Quantum Computing Ltd), Cyber Security Division, London.**<br>
+*Partnership House, Carlisle Place, 2nd Floor, London SW1P 1BX, United Kingdom*
 
 Appointed as a member of the CQC Cyber Security Team to assist with the development of their IronBridge project delivering quantum sourced entropy to partners and third-party clients, and also offering implementations of the quantum-resistant (post-quantum) crypto algorithms currently being assessed by NIST.  My primary roll was that of middleware and server components in CPP, C, C# and JS, but soon grew to also encompass embedded software (primarily C) on a variety of Xilinx Zynq 7xxx FPGA/ARM devices.
 
-Other areas of development include development of OpenSSL engine plugins to make IronBridge randomness available to applications and users via the standard OpenSSL API and command line tools.  The primary aspect of this involved acquiring the randomness from a remote IronBridge server/API using post-quantum KEM (Key Encapsulation), signing and PQ approved ciphers. One of the areas of application of this technology was in the secure take-on and communication between nodes in a Ethereum blockchain DLT - specifically evaluating the possibility of economically verifying a Falcon PQ Signature from within the blockchain by means of a smart contract implemented in Solidity.
+Other areas of development include development of OpenSSL engine plugins to make IronBridge randomness available to applications and users via the standard OpenSSL API and command line tools.  The primary aspect of this involved acquiring the randomness from a remote IronBridge server/API using post-quantum KEM (Key Encapsulation), signing and PQ approved ciphers. One of the areas of application of this technology was in the secure take-on and communication between nodes in a Ethereum blockchain DLT - specifically evaluating the possibility of economically verifying a Falcon PQ Signature from within the blockchain by means of a smart contract implemented in Solidity - this was one of the key elements of a paper co-authored with the customer and subsequently published: Namely **arXiv:2106.06640 [quant-ph] "Quantum-resistance in blockchain networks"**, published 11-Jun-2021 https://doi.org/10.48550/arXiv.2106.06640 .
+
+I was a senior member of the small Cyber Engineering team that developed and launched **"Quantum Origin"** (https://www.quantinuum.com/cybersecurity/quantumorigin), delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing. 
+
 
 Areas of work/expertise:
 - Full software Lifecycle, Windows and Linux, VMs and cross platform development, Code Quality.

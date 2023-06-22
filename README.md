@@ -7,7 +7,7 @@ Available online at [here](https://github.com/jongilm/CV/edit/master/README.md).
 [Code Examples](#codeexamples) - [Expertise](#expertise) - [Achievements](#achievements) - [History](#history) - [Earlier Positions](#ealierpositions) - [Training](#training) - [Qualifications](#qualifications) - [Personal Details](#personaldetails)<br>
 
 
-eMail: [jonathan@jgilmore.eu](mailto:jonathan@jgilmore.eu)<br>
+eMail: [jonathan@jgilmore.net](mailto:jonathan@jgilmore.net)<br>
 About Me: [https://about.me/jonathangilmore/](https://about.me/jonathangilmore/)<br>
 
 A very experienced IT Professional with a wealth of knowledge in all aspects of software development including security related systems and communications, wired and wireless networks, embedded systems, blockchain/DLT systems, smart card technologies, banking and financial systems.<br>

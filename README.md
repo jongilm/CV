@@ -1,6 +1,6 @@
 ## Jonathan Gilmore
 ### Software Developer
-Release 2023.1
+Release 2026.1
 
 Available online at [here](https://github.com/jongilm/CV/edit/master/README.md).
 
@@ -187,3 +187,4 @@ Co-founder and partner in a software house & consultancy firm providing software
 ## <a name="personaldetails">Personal Details:</a>
 - DOB: 1961. Full British Citizen (with Enhanced CRB for activities in the local Scout group).
 - Interests - My family, photography, Upcycling, DIY, cycling, squash, music, travel, genealogy, physics/cosmology
+

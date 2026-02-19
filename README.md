@@ -26,12 +26,12 @@ Project Name | Description | Technologies | Testing
 
 
 ## <a name="expertise">Professional Expertise Summary:</a>
-- Technical expertise, Team and project management, IT consultancy, Team and technical leadership and mentoring, Agile, Scrum, primarily in the Security related system, Telecoms and Retail Banking/Financial sectors. Extensive experience in all aspects of the full software lifecycle, including Agile, scrum, git and use of Open Source in commercial/proprietary systems. 
+- Technical expertise, Team and project management, IT consultancy, Team and technical leadership and mentoring, Agile, Scrum, primarily in the Security related system, Telecoms and Retail Banking/Financial sectors. Extensive experience in all aspects of the full software lifecycle, including Agile, scrum, git and use of Open Source in commercial/proprietary systems.
 - Small Business Management, Problem solving, Motivation, Mentoring and guidance, Support and training, Client relationship management, international 3rd party suppliers and consultants.
 - Methodologies: Agile, Scrum, Scrum Master, Kanban, Waterfall.
 - Platforms: Embedded systems, Mobile telephony, Middleware, PC Windows/Console/Linux, client/server and cloud environments.
 - Architectures: Embedded, Object-Oriented (OO), event driven, state machine, multi-process and multi-threaded, Blockchain, VM. CQRS/Event Sourcing model, cloud-based micro-services.
-- Security: Post-Quantum Cyber Security (incl. Falcon, Dilithium, Sphincs+, Kyber and some of their competitors in the NIST PQC project), Secure Communications (SSL, TLS, and HTTPS, OpenSSL, MBedTLS), Cryptographic/encryption Systems incl. DRNG/PRNG/HWRNG/QRNG, NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. DLT/blockchain with Ethereum/Web3 and Solidity smart contracts. Some exposure to Microsoft PlayReady/CDM. 
+- Security: Post-Quantum Cyber Security (incl. Falcon, Dilithium, Sphincs+, Kyber and some of their competitors in the NIST PQC project), Secure Communications (SSL, TLS, and HTTPS, OpenSSL, MBedTLS), Cryptographic/encryption Systems incl. DRNG/PRNG/HWRNG/QRNG, NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. DLT/blockchain with Ethereum/Web3 and Solidity smart contracts. Some exposure to Microsoft PlayReady/CDM.
 - Communications and Networking: TCP/IP (and related protocols), HTTP, HTTPS, HTML, GSM/GPRS, Mobile and Multimedia messaging, email and web technologies, MPEG/DVB transport streams, Serial/Async/RS232/Dialup modems etc.
 - Languages: C (40+yrs, of which 17yrs in embedded), C++ (Upto C++14) (8yrs, of which 2yrs in embedded), C# (2yrs), JavaScript & Typescript (3yrs), Solidity (incl. implementation of Falcon signature verification "arxiv.org 2106.06640 - Quantum-resistance in blockchain networks", https://github.com/lacchain/sol-falcon-verify), VB, Pascal and various scripting environments incl. bash, Perl, python, make/awk/sed/regex, DOS/cmd, Powershell.
 - Development Frameworks: Win32 SDK, MFC, Apoxi and some dotNet and dotNet Core.
@@ -64,7 +64,7 @@ Appointed as a member of the CQC Cyber Security Team to assist with the developm
 
 Other areas of development include development of OpenSSL engine plugins to make IronBridge randomness available to applications and users via the standard OpenSSL API and command line tools.  The primary aspect of this involved acquiring the randomness from a remote IronBridge server/API using post-quantum KEM (Key Encapsulation), signing and PQ approved ciphers. One of the areas of application of this technology was in the secure take-on and communication between nodes in a Ethereum blockchain DLT - specifically evaluating the possibility of economically verifying a Falcon PQ Signature from within the blockchain by means of a smart contract implemented in Solidity - this was one of the key elements of a paper co-authored with the customer and subsequently published: Namely **arXiv:2106.06640 [quant-ph] "Quantum-resistance in blockchain networks"**, published 11-Jun-2021 https://doi.org/10.48550/arXiv.2106.06640 .
 
-I am a senior member of the small Cyber Engineering team that developed and launched **"Quantum Origin"** (https://www.quantinuum.com/cybersecurity/quantumorigin), delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing. 
+I am a senior member of the small Cyber Engineering team that developed and launched **"Quantum Origin"** (https://www.quantinuum.com/cybersecurity/quantumorigin), delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing.
 
 Other, more recent projects include:
 - Integration of a sockRNG extension to WolfSSL potentially supplying Quantum Origin near-perfect randomness seeds to WolfSSL's DRNG, while maintaining its pre-existing FIPS compliance.
@@ -140,7 +140,7 @@ Appointed to design, develop and implement e-Mail on Sharp's latest 3G, EMP-base
 - Maintained and supported all messaging apps and protocols (POP3, IMAP4, SMTP, MMS, SMIL, SMS and WAP).
 - Provided technical leadership to a mid-sized team of staff and international contractors.
 - Successfully met the internal quality requirements, customer specifications & production schedules.
-- Skills used: Analysis and design, Team lead, mentoring, embedded C/C++, supplier coordination, test liaison, defect management and problem solving, CVS and ClearQuest. 
+- Skills used: Analysis and design, Team lead, mentoring, embedded C/C++, supplier coordination, test liaison, defect management and problem solving, CVS and ClearQuest.
 
 #### Jan 1999 to Dec 2006 (8 years)
 **Software Manager/project Manager: Tresor UK Ltd / Beaucom Inc. / Tripleton Ltd (Purley, UK)**<br>
@@ -155,13 +155,13 @@ Key skills and technologies used:<br>
 Software consultancy providing bespoke software solutions to the finance and telecoms sectors.
 - Projects incl.: Remote banking/POS system; Remote Salary & Electronic Payment System; Principle engineer on front-end systems for 3 new banks.
 - Team lead on Y2K project for entire front-end retail banking suite for 3 major banks in the Southern African subcontinent.
-- Skills used: C, C++, Communications/Networking, Testing, Team & Technical lead, client and customer liaison. 
+- Skills used: C, C++, Communications/Networking, Testing, Team & Technical lead, client and customer liaison.
 
 #### 1991 to 1996 (6 years)
 **Software Manager & Director: Softnet Computer Services (Pty) Ltd (S. Africa)**<br>
 Co-founder and partner in a software house & consultancy firm providing software development, deployment and support of systems and tools to the finance, education and business sectors.<br>
 - Projects include: Suite of multi-platform, multi-OS, multi-language 4GL/RAD tools; Extensive Pascal-to-C conversion project; Corporate banking remote access systems; Suite of front-end retail banking systems; Security layer for Treasury System; Medical Insurance Analysis & Settlement system.
-- Skills used: Small business and project management, staff recruitment training and management, C, C++, Pascal, VB, Assembler, BTOS/CTOS, Windows, OS/2, NT, AIX Unix, Telecoms and communications security. 
+- Skills used: Small business and project management, staff recruitment training and management, C, C++, Pascal, VB, Assembler, BTOS/CTOS, Windows, OS/2, NT, AIX Unix, Telecoms and communications security.
 
 ## <a name="ealierpositions">Earlier Positions Include:</a>
 - Developer/Contractor - Computer Lab Jhb Cc (South Africa) (1989-1991) (2 years).
@@ -187,4 +187,5 @@ Co-founder and partner in a software house & consultancy firm providing software
 ## <a name="personaldetails">Personal Details:</a>
 - DOB: 1961. Full British Citizen (with Enhanced CRB for activities in the local Scout group).
 - Interests - My family, photography, Upcycling, DIY, cycling, squash, music, travel, genealogy, physics/cosmology
+
 

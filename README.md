@@ -41,8 +41,8 @@ Project Name | Description | Technologies | Testing
 ## <a name="achievements">Career Achievements Include:</a>
 - Integration of a sockRNG extension to WolfSSL potentially supplying Quantum Origin near-perfect randomness seeds to WolfSSL's DRNG, while maintaining its pre-existing FIPS compliance.
 - Quantinuum CEO Achievement Award (Oct-2023) for the work done which is "centrally important to the future not only of this company, but our entire industry.", and for being "a pioneer in the worldwide effort to see quantum computing achieve the commercial reality it has promised for decades.".
-- Instrumental in the development, documentation, productisation and launch of the **"Quantum Origin C SDK"** giving programmatic access to the embedded Quantum Origin component bringing near-perfect randomness to customer applications.
-- Member of the **Quantinuum** (previously known as **Cambridge Quantum Computing**) Cyber Security Engineering team that developed and launched **"Quantum Origin"**, delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing.
+- Instrumental in the development, documentation, productisation and launch of the **"Quantum Origin C SDK"** giving programmatic access to the embedded Quantum Origin component bringing near-perfect randomness to customer applications. [https://docs.quantinuum.com/origin/user_guides/sdk/introduction.html](https://docs.quantinuum.com/origin/user_guides/sdk/introduction.html)
+- Member of the **Quantinuum** (previously known as **Cambridge Quantum Computing**) Cyber Security Engineering team that developed and launched **"Quantum Origin"**, delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing.  [https://docs.quantinuum.com/origin/](https://docs.quantinuum.com/origin/)
 - Co-author of paper **arXiv:2106.06640 [quant-ph] "Quantum-resistance in blockchain networks"**, published 11-Jun-2021 https://doi.org/10.48550/arXiv.2106.06640
 - Recognition for the successful go-live of the **Calastone DMI private blockchain platform** in May 2019.
 - Recognition and award for valuable contribution towards successful launch of the **BskyB Adsmart** and **Sky-Q** STB projects.
@@ -187,6 +187,7 @@ Co-founder and partner in a software house and consultancy firm providing softwa
 ## <a name="personaldetails">Personal Details:</a>
 - DOB: 1961. Full British Citizen (with Enhanced CRB for activities in the local Scout group).
 - Interests: My family, photography, Upcycling, DIY, cycling, squash, music, travel, genealogy, physics/cosmology
+
 
 
 

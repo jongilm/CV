@@ -7,7 +7,7 @@ Available online at [here](https://github.com/jongilm/CV/edit/master/README.md).
 [Code Examples](#codeexamples) - [Expertise](#expertise) - [Achievements](#achievements) - [History](#history) - [Earlier Positions](#ealierpositions) - [Training](#training) - [Qualifications](#qualifications) - [Personal Details](#personaldetails)<br>
 
 
-eMail: [jonathan@jgilmore.net](mailto:jonathan@jgilmore.net)<br>
+eMail: [jonnie.gilmore@gmail.com](mailto:jonnie.gilmore@gmail.com)<br>
 About Me: [https://about.me/jonathangilmore/](https://about.me/jonathangilmore/)<br>
 
 A very experienced IT Professional with a wealth of knowledge in all aspects of software development including security related systems and communications, wired and wireless networks, embedded systems, blockchain/DLT systems, smart card technologies, banking and financial systems.<br>
@@ -33,13 +33,16 @@ Project Name | Description | Technologies | Testing
 - Architectures: Embedded, Object-Oriented (OO), event driven, state machine, multi-process and multi-threaded, Blockchain, VM. CQRS/Event Sourcing model, cloud-based micro-services.
 - Security: Post-Quantum Cyber Security (incl. Falcon, Dilithium, Sphincs+, Kyber and some of their competitors in the NIST PQC project), Secure Communications (SSL, TLS, and HTTPS, OpenSSL, MBedTLS), Cryptographic/encryption Systems incl. DRNG/PRNG/HWRNG/QRNG, NIST, CAVS/CAVP and aspects of FIPS compliance, data security, stream ciphers, web vulnerabilities and hardening. DLT/blockchain with Ethereum/Web3 and Solidity smart contracts. Some exposure to Microsoft PlayReady/CDM. 
 - Communications and Networking: TCP/IP (and related protocols), HTTP, HTTPS, HTML, GSM/GPRS, Mobile and Multimedia messaging, email and web technologies, MPEG/DVB transport streams, Serial/Async/RS232/Dialup modems etc.
-- Languages: C (37yrs, of which 17yrs in embedded), C++ (Upto C++14) (8yrs, of which 2yrs in embedded), C# (2yrs), JavaScript & Typescript (3yrs), Solidity, VB, Pascal and various scripting environments incl. bash, Perl, python, make/awk/sed/regex, DOS/cmd, Powershell.
+- Languages: C (40+yrs, of which 17yrs in embedded), C++ (Upto C++14) (8yrs, of which 2yrs in embedded), C# (2yrs), JavaScript & Typescript (3yrs), Solidity (incl. implementation of Falcon signature verification "arxiv.org 2106.06640 - Quantum-resistance in blockchain networks", https://github.com/lacchain/sol-falcon-verify), VB, Pascal and various scripting environments incl. bash, Perl, python, make/awk/sed/regex, DOS/cmd, Powershell.
 - Development Frameworks: Win32 SDK, MFC, Apoxi and some dotNet and dotNet Core.
 - Toolchains: GNU/gcc, CLang, Visual Studio/MSVC, TI, Infineon, various Windows and Linux scripting tools, JavaScript, Typescript. C#.
 - Configuration management, Defect Management and workflow: git, github (enterprise), TeamCity, YouTrack, ClearCase UCM, ClearQuest, ReviewBoard, Gerrit, Artifactory, Coverity, Rally, Jira, CDETS, Bugzilla, TestTrack, makefiles, CVS, Wiki, BlackDuck (Protex).
 
 ## <a name="achievements">Career Achievements Include:</a>
-- Senior member of the small **Quantinuum** (previously known as **Cambridge Quantum Computing**) that developed and launched **"Quantum Origin"**, delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing. 
+- Integration of a sockRNG extension to WolfSSL potentially supplying Quantum Origin near-perfect randomness seeds to WolfSSL's DRNG, while maintaining its pre-existing FIPS compliance.
+- Quantinuum CEO Achievement Award (Oct-2023) for the work done which is "centrally important to the future not only of this company, but our entire industry.", and for being "a pioneer in the worldwide effort to see quantum computing achieve the commercial reality it has promised for decades.".
+- Instrumental in the development, documentation, productisation and launch of the **"Quantum Origin C SDK"** giving programmatic access to the embedded Quantum Origin component bringing near-perfect randomness to customer applications.
+- Member of the **Quantinuum** (previously known as **Cambridge Quantum Computing**) Cyber Security Engineering team that developed and launched **"Quantum Origin"**, delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing.
 - Co-author of paper **arXiv:2106.06640 [quant-ph] "Quantum-resistance in blockchain networks"**, published 11-Jun-2021 https://doi.org/10.48550/arXiv.2106.06640
 - Recognition for the successful go-live of the **Calastone DMI private blockchain platform** in May 2019.
 - Recognition and award for valuable contribution towards successful launch of the **BskyB Adsmart** and **Sky-Q** STB projects.
@@ -61,8 +64,11 @@ Appointed as a member of the CQC Cyber Security Team to assist with the developm
 
 Other areas of development include development of OpenSSL engine plugins to make IronBridge randomness available to applications and users via the standard OpenSSL API and command line tools.  The primary aspect of this involved acquiring the randomness from a remote IronBridge server/API using post-quantum KEM (Key Encapsulation), signing and PQ approved ciphers. One of the areas of application of this technology was in the secure take-on and communication between nodes in a Ethereum blockchain DLT - specifically evaluating the possibility of economically verifying a Falcon PQ Signature from within the blockchain by means of a smart contract implemented in Solidity - this was one of the key elements of a paper co-authored with the customer and subsequently published: Namely **arXiv:2106.06640 [quant-ph] "Quantum-resistance in blockchain networks"**, published 11-Jun-2021 https://doi.org/10.48550/arXiv.2106.06640 .
 
-I was a senior member of the small Cyber Engineering team that developed and launched **"Quantum Origin"** (https://www.quantinuum.com/cybersecurity/quantumorigin), delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing. 
+I am a senior member of the small Cyber Engineering team that developed and launched **"Quantum Origin"** (https://www.quantinuum.com/cybersecurity/quantumorigin), delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing. 
 
+Other, more recent projects include:
+- Integration of a sockRNG extension to WolfSSL potentially supplying Quantum Origin near-perfect randomness seeds to WolfSSL's DRNG, while maintaining its pre-existing FIPS compliance.
+- Instrumental in the development, documentation, productisation and launch of the **"Quantum Origin C SDK"** giving programmatic access to the embedded Quantum Origin component bringing near-perfect randomness to customer applications.
 
 Areas of work/expertise:
 - Full software Lifecycle, Windows and Linux, VMs and cross platform development, Code Quality.
@@ -181,4 +187,3 @@ Co-founder and partner in a software house & consultancy firm providing software
 ## <a name="personaldetails">Personal Details:</a>
 - DOB: 1961. Full British Citizen (with Enhanced CRB for activities in the local Scout group).
 - Interests - My family, photography, Upcycling, DIY, cycling, squash, music, travel, genealogy, physics/cosmology
-

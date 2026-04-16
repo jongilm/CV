@@ -26,7 +26,7 @@ Project Name | Description | Technologies | Testing
 
 
 ## <a name="expertise">Professional Expertise Summary:</a>
-- Technical expertise, Team and project management, IT consultancy, Team and technical leadership and mentoring, Agile, Scrum, primarily in the security-related system, Telecoms and Retail Banking/Financial sectors. Extensive experience in all aspects of the full software lifecycle, including Agile, scrum, git and use of Open Source in commercial/proprietary systems.
+- Technical expertise, Team and project management, IT consultancy, Team and technical leadership and mentoring, Agile, Scrum, primarily in the security-related system, Telecoms and Retail Banking/Financial sectors.  Extensive experience in all aspects of the full software lifecycle, including Agile, scrum, git and use of Open Source in commercial/proprietary systems.
 - Small Business Management, Problem solving, Motivation, Mentoring and guidance, Support and training, Client relationship management, international 3rd party suppliers and consultants.
 - Methodologies: Agile, Scrum, Scrum Master, Kanban, Waterfall.
 - Platforms: Embedded systems, Mobile telephony, Middleware, PC Windows/Console/Linux, client/server and cloud environments.
@@ -41,7 +41,7 @@ Project Name | Description | Technologies | Testing
 ## <a name="achievements">Career Achievements Include:</a>
 - Integration of a sockRNG extension to WolfSSL potentially supplying Quantum Origin near-perfect randomness seeds to WolfSSL's DRNG, while maintaining its pre-existing FIPS compliance.
 - Quantinuum CEO Achievement Award (Oct-2023) for the work done which is "centrally important to the future not only of this company, but our entire industry.", and for being "a pioneer in the worldwide effort to see quantum computing achieve the commercial reality it has promised for decades.".
-- Instrumental in the development, documentation, productisation and launch of the **"Quantum Origin C SDK"** giving programmatic access to the embedded Quantum Origin component bringing near-perfect randomness to customer applications. [https://docs.quantinuum.com/origin/user_guides/sdk/introduction.html](https://docs.quantinuum.com/origin/user_guides/sdk/introduction.html)
+- Instrumental in the development, documentation, productisation and launch of the **"Quantum Origin C SDK"** giving programmatic access to the embedded Quantum Origin component bringing near-perfect randomness to customer applications.  [https://docs.quantinuum.com/origin/user_guides/sdk/introduction.html](https://docs.quantinuum.com/origin/user_guides/sdk/introduction.html)
 - Member of the **Quantinuum** (previously known as **Cambridge Quantum Computing**) Cyber Security Engineering team that developed and launched **"Quantum Origin"**, delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing.  [https://docs.quantinuum.com/origin/](https://docs.quantinuum.com/origin/)
 - Co-author of paper **arXiv:2106.06640 [quant-ph] "Quantum-resistance in blockchain networks"**, published 11-Jun-2021 https://doi.org/10.48550/arXiv.2106.06640
 - Recognition for the successful go-live of the **Calastone DMI private blockchain platform** in May 2019.
@@ -50,7 +50,7 @@ Project Name | Description | Technologies | Testing
 - Recognition for contribution towards FIPS/NIST CAVS certification of Motorola's family of point-to-point wireless routers, opening up new markets in the defence and public safety spaces.
 - Implementation of email and messaging apps in high-end mobile handsets for global market (Sharp).
 - Design, development and marketing of a range of **AVL** Vehicle/Asset tracking devices using GSM/GPRS and GPS technology.
-- Development and coordination of the software aspects of a highly successful military-grade crypto-mobile phone used, at the time, by a variety of presidential offices and security agencies worldwide.
+- Development and coordination of all software aspects of a highly successful military-grade crypto-mobile phone used, at the time, by a variety of presidential offices and security agencies worldwide.
 - Co-founded, managed and grew a software company, **Softnet** to a team of >20 specialist staff serving the retail banking sector and achieving certification as a Lotus Partner and accredited by Novell.
 - Recognition and award for an outstanding contribution to the launch of the new **Cape of Good Hope Bank**, which was on time and within budget and highly acclaimed in the press.
 
@@ -187,7 +187,4 @@ Co-founder and partner in a software house and consultancy firm providing softwa
 ## <a name="personaldetails">Personal Details:</a>
 - DOB: 1961. Full British Citizen (with Enhanced CRB for activities in the local Scout group).
 - Interests: My family, photography, Upcycling, DIY, cycling, squash, music, travel, genealogy, physics/cosmology
-
-
-
 

@@ -188,6 +188,3 @@ Co-founder and partner in a software house and consultancy firm providing softwa
 - DOB: 1961. Full British Citizen (with Enhanced CRB for activities in the local Scout group).
 - Interests: My family, photography, Upcycling, DIY, cycling, squash, music, travel, genealogy, physics/cosmology
 
-
-
-

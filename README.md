@@ -1,13 +1,13 @@
 ## Jonathan Gilmore
 ### Software Developer
-Release 2023.1
+Release 2026.1
 
 Available online at [here](https://github.com/jongilm/CV/edit/master/README.md).
 
 [Code Examples](#codeexamples) - [Expertise](#expertise) - [Achievements](#achievements) - [History](#history) - [Earlier Positions](#ealierpositions) - [Training](#training) - [Qualifications](#qualifications) - [Personal Details](#personaldetails)<br>
 
 
-eMail: [jonathan@jgilmore.net](mailto:jonathan@jgilmore.net)<br>
+eMail: [jonnie.gilmore@gmail.com](mailto:jonnie.gilmore@gmail.com)<br>
 About Me: [https://about.me/jonathangilmore/](https://about.me/jonathangilmore/)<br>
 
 A very experienced IT Professional with a wealth of knowledge in all aspects of software development including security related systems and communications, wired and wireless networks, embedded systems, blockchain/DLT systems, smart card technologies, banking and financial systems.<br>
@@ -64,7 +64,7 @@ Appointed as a member of the CQC Cyber Security Team to assist with the developm
 
 Other areas of development include development of OpenSSL engine plugins to make IronBridge randomness available to applications and users via the standard OpenSSL API and command line tools.  The primary aspect of this involved acquiring the randomness from a remote IronBridge server/API using post-quantum KEM (Key Encapsulation), signing and PQ approved ciphers. One of the areas of application of this technology was in the secure take-on and communication between nodes in a Ethereum blockchain DLT - specifically evaluating the possibility of economically verifying a Falcon PQ Signature from within the blockchain by means of a smart contract implemented in Solidity - this was one of the key elements of a paper co-authored with the customer and subsequently published: Namely **arXiv:2106.06640 [quant-ph] "Quantum-resistance in blockchain networks"**, published 11-Jun-2021 https://doi.org/10.48550/arXiv.2106.06640 .
 
-I was a senior member of the small Cyber Engineering team that developed and launched **"Quantum Origin"** (https://www.quantinuum.com/cybersecurity/quantumorigin), delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing.
+I am a senior member of the small Cyber Engineering team that developed and launched **"Quantum Origin"** (https://www.quantinuum.com/cybersecurity/quantumorigin), delivering near-perfect randomness and, from that, best-in-class Post-Quantum and Classic keys to customers - which may have been the world's first commercial application of quantum computing.
 
 Other, more recent projects include:
 - Integration of a sockRNG extension to WolfSSL potentially supplying Quantum Origin near-perfect randomness seeds to WolfSSL's DRNG, while maintaining its pre-existing FIPS compliance.
